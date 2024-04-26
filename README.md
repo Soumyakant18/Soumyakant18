@@ -10,7 +10,7 @@
 
 - 📫 How to reach me : **soumykantarout@gmail.com**
 
-- ⚡ Fun fact : **I think i am moody**
+- ⚡ Fun fact : **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
