@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyakant18&label=Profile%20views&color=0e75b6&style=flat" alt="soumyakant18" /> </p>
 
-- 🌱 I’m currently learning **flutter , power bi**
+
 
 - 📫 How to reach me **soumykantarout@gmail.com**
 
